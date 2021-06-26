@@ -2,9 +2,12 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+ - index.md
+ - about.md
+ - research.md
+ - pub.md
+
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 

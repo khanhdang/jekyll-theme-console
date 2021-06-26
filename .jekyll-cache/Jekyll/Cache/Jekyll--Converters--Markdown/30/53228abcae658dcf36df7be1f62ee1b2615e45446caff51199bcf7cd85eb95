@@ -1,0 +1,48 @@
+I"�<h2 id="research-topics">Research topics</h2>
+<h3 id="current--topics">Current  topics</h3>
+
+<ul>
+  <li>Neuromorphic Computing: <a href="./research_topics/neuromorphic">» more detail</a></li>
+  <li>AI for Computer-Aided Design: <a href="./research_topics/mlcad">» more detail</a></li>
+</ul>
+
+<h3 id="previous-topics">Previous topics</h3>
+
+<ul>
+  <li>Thermal-aware 3D-ICs: <a href="./research_topics/thermal3DICs">» more detail</a></li>
+  <li>Fault-tolerant Network-on-Chip architecture: <a href="./research_topics/ftnoc">» more detail</a></li>
+  <li>Full hardware H.264/AVC encoder: <a href="./research_topics/h264">» more detail</a></li>
+</ul>
+
+<hr />
+
+<h2 id="research-grants">Research Grants</h2>
+<ol>
+  <li><em>“Hotspot aware Fault-Tolerant Architectures and Algorithms for TSV-based 3D Network-on-Chips”</em>, main PI, funded by <strong>National Foundation for Science and Technology Development (NAFOSTED)</strong> under <em>No. 102.01-2018.312</em> (2019-2021)</li>
+  <li><em>“Soft Error Resilient Architecture and Algorithm for Network-on-Chip”</em> : main PI, funded by <strong>VNU University of Engineering and Technology (VNU-UET)</strong> under project <em>No. CN18.10</em> (2018-2019)</li>
+  <li><em>“Development of IoT Dual Band Transmitters for Agriculture (IOTA)”</em>, core member, funded by the <strong>Ministry of Science and Technology (World Bank project)</strong> (2018-2019).</li>
+  <li><em>“Reconfiguration Solution in Designing Network-on-Chip Architectures “</em>, core member, funded by <strong>National Foundation for Science and Technology Development (NAFOSTED)</strong> under <em>No. 102.01-2013.17</em> (2014-2016).</li>
+  <li><em>“Investigation, Design, and Implementation of a Video Encoder for Next Generation Multimedia Equipment”</em>, core member, funded by  <strong>Vietnam National University, Hanoi (VNU)</strong> under <em>No. QGĐA.10.02</em> (2010-2013).</li>
+</ol>
+
+<hr />
+
+<h2 id="awards">Awards</h2>
+
+<ol>
+  <li><em>Second Prize</em> (the 2nd best) of <strong>Vietnamese Talents Award 2015</strong> (Giải Nhì, Giải thưởng Nhân tài Đất Việt 2015). The Second Prize awarded to our VENGME H.264/AVC encoding chip which I took part in the design team.</li>
+  <li><em>Best Student Paper Award</em> at <strong>International Symposium on Ubiquitous Networking (UNet 2021)</strong> for paper:
+Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”. More details <a href="./2021/05/22/Best_Paper_Award_Unet.html">[here]</a>.</li>
+</ol>
+
+<hr />
+
+<h2 id="collaborators">Collaborators</h2>
+
+<ul>
+  <li><a href="http://www.uet.vnu.edu.vn/~tutx/">Prof. Xuan-Tu Tran, VNU Information Technology Institute, Vietnam National University Hanoi</a></li>
+  <li><a href="https://www.u-aizu.ac.jp/~benab/">Prof. Abderazek Ben Abdallah, The University of Aizu, Japan</a></li>
+  <li><a href="https://scholar.google.com.vn/citations?user=L1334B4AAAAJ">Dr. Akram Ben Ahmed, National Institute of Advanced Industrial Science and Technology (AIST), Japan</a></li>
+  <li><a href="https://scholar.google.com.vn/citations?user=P_dYs6UAAAAJ">Dr. Nguyen Anh Vu Doan, Technische Universität München, Germany</a></li>
+</ul>
+:ET

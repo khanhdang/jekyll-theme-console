@@ -1,0 +1,38 @@
+I"�<h2 id="khanh-n-dang"><strong>Khanh N. Dang</strong></h2>
+<p><em>Assistant Professor</em>, 
+VNU Key Laboratory for Smart Integrated Systems, 
+<a href="https://e.uet.vnu.edu.vn/">VNU University of Engineering and Technology (VNU-UET)</a>, 
+<a href="https://vnu.edu.vn/eng/">Vietnam National University, Hanoi (VNU)</a> 
+Room 2.1, E4, Vietnam National University, Hanoi, 
+144 Xuan Thuy Rd., Hanoi,  Vietnam  <a href="https://goo.gl/maps/UZQVW4WS47aPM4ue9">[map]</a>&lt;
+Email: <a href="mailto:khanh.n.dang@vnu.edu.vn">khanh.n.dang@vnu.edu.vn</a> 
+Tel.: +84-24-3754 9664 (office) 
+Website: <a href="https://khanhdang.github.io">https://khanhdang.github.io</a> | <a href="https://orcid.org/0000-0001-6702-3870">ORCID</a> | <a href="https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ">Google Scholar</a> | <a href="https://publons.com/researcher/3564843">Publons</a></p>
+
+<hr />
+<h2 id="news">News</h2>
+
+<ul class="alert alert-success scroll-news">
+  <li><strong>2021-06:</strong> We have released the source code for fault insertion into Spiking CNN (VGG-16) on CIFAR-10 dataset. Access the source code <a href="https://github.com/khanhdang/hybrid-snn-conversion-with-faults">here</a>. The source code is related to the paper titled <a href="https://openreview.net/forum?id=B1xSperKvH">“Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation” published in ICLR, 2020</a> with our fault insertion on weights and thresholds.</li>
+  <li><strong>2021-06:</strong> Our paper titled “Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System” has been accepted for publication in the <strong>Frontiers in Neuroscience</strong>. The paper presents R-NASH - our latest neuromorphic system in 3D-ICs. You can access the paper <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.690208">here</a> or download <a href="./share/pubs/FNINS-2021.pdf">PDF</a> file.</li>
+  <li><strong>2021-05:</strong> Our paper titled “Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems” first authored by Mark has been awarded the <strong>Best Student Paper Award</strong> at The 6th international symposium on Ubiquitous Networking (UNet’21). More details <a href="./2021/05/22/Best_Paper_Award_Unet.html">here</a>.</li>
+  <li><strong>2021-04:</strong> Our paper titled “On the Design of a Fault-tolerant Scalable Three Dimensional NoC-based Digital
+Neuromorphic System with On-chip Learning” has been accepted for publication in the <strong>IEEE Access</strong>. Access the paper
+<a href="https://doi.org/10.1109/ACCESS.2021.3071089">here</a>.</li>
+  <li><strong>2021-03:</strong> Our paper titled “HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards
+Reliable 3-D ICs systems” is accepted for publication in the <strong>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong>. Access the paper <a href="./share/TCAD-2021.pdf">here</a>.</li>
+  <li><strong>2020-11:</strong> I have started working for <a href="http://u-aizu.ac.jp">University of Aizu</a> as a visiting researcher.</li>
+  <li><strong>2020-11:</strong> Our new patent application named “An AI processor” has been filed.</li>
+  <li><strong>2020-11:</strong> Our paper titled “A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks” has been accepted for <strong>APCCAS 2020</strong>.</li>
+  <li><strong>2020-09:</strong> Our paper tilted “A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems” has been accepted for <strong>IEEE Access</strong>. Access the paper <a href="https://doi.org/10.1109/ACCESS.2020.3022904">here</a>.</li>
+  <li><strong>2020-08:</strong> Our paper tilted “Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems” has been published for <strong>IEEE Transactions on Emerging Topics in Computing (TETC)</strong>. Access the paper <a href="https://doi.org/10.1109/TETC.2017.2762407">here</a>.</li>
+  <li><strong>2020-07:</strong> Due to the Covid-19 epidemic, MCSoC 2020 is postponed to 2021 in the same venue.</li>
+  <li><strong>2020-04:</strong> Our paper titled <a href="http://khanhdang.github.io/share/TVLSI-2019.pdf">“TSV-OCT: A scalable online multiple TSV defects localization for 3D-ICs”</a> is published for <strong><a href="http://tvlsi.egr.duke.edu/">IEEE Trans. on VLSI systems</a></strong>! Access the paper <a href="http://khanhdang.github.io/share/TVLSI-2019.pdf">here</a>.</li>
+  <li><strong>2020-03:</strong> Our journal paper titled “A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip” has been accepted for <strong>IEEE Access</strong>.  Access the paper <a href="http://khanhdang.github.io/share/ACCESS-2020.pdf">here</a>.</li>
+  <li><strong>2019-12:</strong> I will be a visiting researcher at The University of Aizu in 2020 to continue the work on designing Spiking Neural Network on hardware.</li>
+  <li><strong>2019-04:</strong> We visit <a href="https://www.ece.ucdavis.edu/mml/">Prof. Pham’s Laboratory</a> at UC Davis as a part of our WorldBank funded project.</li>
+  <li><strong>2018-12:</strong> Our project has been funded by <strong>NAFOSTED</strong> under No. 102.01-2018.312 (2019 - 2021).</li>
+  <li><strong>2018-09:</strong> Our project has been funded by <strong>VNU-UET</strong> under No. CN 19.10 (2018 - 2019).</li>
+</ul>
+
+:ET
